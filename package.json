@@ -1,0 +1,19 @@
+{
+  "name": "real-time-chat-app",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node": "^18.20.8",
+    "serve-handler": "^6.1.6",
+    "ws": "^8.18.1"
+  }
+}
